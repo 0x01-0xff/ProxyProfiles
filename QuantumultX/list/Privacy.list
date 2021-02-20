@@ -1,0 +1,40 @@
+# Privacy
+DOMAIN,track.tiara.daum.net,Privacy
+DOMAIN,track.tiara.kakao.com,Privacy
+DOMAIN,zgsdk.zhugeio.com,Privacy
+
+# > 51.LA
+DOMAIN,js.users.51.la,Privacy
+DOMAIN,mc.51.la,Privacy
+DOMAIN,wc.51.la,Privacy
+# > 58
+DOMAIN,track.58.com,Privacy
+DOMAIN,tracklog.58.com,Privacy
+# > Baidu
+DOMAIN,hm.baidu.com,Privacy
+DOMAIN,hmma.baidu.com,Privacy
+# > ByteDance
+DOMAIN,log.byteoversea.com,Privacy
+DOMAIN,log.tiktokv.com,Privacy
+DOMAIN,log-hl-ipv6.snssdk.com,Privacy
+DOMAIN,log-lq.snssdk.com,Privacy
+DOMAIN,log-va.tiktokv.com,Privacy
+DOMAIN,xlog.snssdk.com,Privacy
+# > Google
+DOMAIN-SUFFIX,googletagmanager.com,Privacy
+DOMAIN-SUFFIX,google-analytics.com,Privacy
+DOMAIN,safebrowsing.googleapis.com,Privacy
+# > MI
+DOMAIN-SUFFIX,tracking.miui.com,Privacy
+DOMAIN,data.mistat.xiaomi.com,Privacy
+DOMAIN,tracking.intl.miui.com,Privacy
+# > Tencent
+DOMAIN-SUFFIX,trace.qq.com,Privacy
+DOMAIN,btrace.qq.com,Privacy
+DOMAIN,btrace.video.qq.com,Privacy
+DOMAIN,mtrace.qq.com,Privacy
+DOMAIN,safebrowsing.urlsec.qq.com,Privacy
+# > Umeng
+DOMAIN-KEYWORD,log.umeng.com,Privacy
+DOMAIN-KEYWORD,logs.umeng.com,Privacy
+DOMAIN-KEYWORD,logs.umengcloud.com,Privacy
