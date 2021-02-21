@@ -17,16 +17,25 @@
         "config": "9 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/haidilao\/hdl.js, tag=海底捞, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/HaiDiLao.png",
         "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_haidilao.conf"
     }, {
-        "config": "11 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/jddj\/jddj.js, tag=京东到家, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/JingDongDaoJia.png",
+        "config": "11 0 * * * https:\/\/raw.githubusercontent.com\/NobyDa\/Script\/master\/JD-DailyBonus\/JD_DailyBonus.js, tag=京东[多合一], enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/JingDong.png",
+        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_jingdong.conf"
+    }, {
+        "config": "13 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/jddj\/jddj.js, tag=京东到家, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/JingDongDaoJia.png",
         "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_jingdongdaojia.conf"
     }, {
-        "config": "13 0 * * * https:\/\/raw.githubusercontent.com\/NobyDa\/Script\/master\/iQIYI-DailyBonus\/iQIYI.js, tag=爱奇艺, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/iQIYI.png",
-        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_iqiyi.conf"
-    }, {
-        "config": "15 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/10086\/10086.js, tag=10086, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/10086.png",
-        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_10086.conf"
+        "config": "15 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/pagoda\/pagoda.js, tag=百果园, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/BaiGuoYuan.png",
+        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_baiguoyuan.conf"
     }, {
         "config": "17 0 * * * https:\/\/raw.githubusercontent.com\/zZPiglet\/Task\/master\/DiDi\/DiDi_new.js, tag=滴滴出行, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/DiDiChuXing.png",
         "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_didichuxing.conf"
+    }, {
+        "config": "19 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/neteasemusic\/neteasemusic.js, tag=网易云音乐, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/NeteaseMusic.png",
+        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_neteasemusic.conf"
+    }, {
+        "config": "21 0 * * * https:\/\/raw.githubusercontent.com\/NobyDa\/Script\/master\/iQIYI-DailyBonus\/iQIYI.js, tag=爱奇艺, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/iQIYI.png",
+        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_iqiyi.conf"
+    }, {
+        "config": "23 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/10086\/10086.js, tag=10086, enabled=true, img-url=https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/icon\/task\/10086.png",
+        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/rw_get_cookie\/gc_10086.conf"
     }]
 }
