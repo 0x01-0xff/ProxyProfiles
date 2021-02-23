@@ -9,6 +9,6 @@
         "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/get_cookie_one.conf#in=ximalaya.cookie.js&inhn=yourtest,opt-parser=true"
     }, {
         "config": "32 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/haidilao\/hdl.js, tag=测试_hertest, enabled=true",
-        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/get_cookie_one.conf#in=hdl.js&inhn=hertest"
+        "addons": "https:\/\/raw.githubusercontent.com\/0x01-0xff\/ProxyProfiles\/master\/QuantumultX\/task\/get_cookie_one.conf"
     }]
 }
