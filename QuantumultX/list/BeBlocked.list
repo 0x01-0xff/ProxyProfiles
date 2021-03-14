@@ -532,5 +532,5 @@ DOMAIN-SUFFIX,metapix.net,BeBlocked
 DOMAIN-SUFFIX,s3.amazonaws.com,BeBlocked
 DOMAIN-SUFFIX,zaobao.com.sg,BeBlocked
 DOMAIN,international-gfe.download.nvidia.com,BeBlocked
-DOMAIN,ocsp.apple.com,BeBlocked
+#DOMAIN,ocsp.apple.com,BeBlocked
 DOMAIN,store-images.s-microsoft.com,BeBlocked
