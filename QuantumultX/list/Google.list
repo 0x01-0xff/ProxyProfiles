@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,gvt3.com,Google
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Google
 DOMAIN-SUFFIX,ytimg.com,Google
 DOMAIN-KEYWORD,google,Google
-DOMAIN-KEYWORD,blogspot,Google
+DOMAIN-KEYWORD,.blogspot.,Google
 # > Google
 DOMAIN-SUFFIX,abc.xyz,Google
 DOMAIN-SUFFIX,android.com,Google
@@ -55,12 +55,6 @@ DOMAIN-SUFFIX,widevine.com,Google
 DOMAIN-SUFFIX,x.company,Google
 DOMAIN-SUFFIX,youtu.be,Google
 DOMAIN-SUFFIX,yt.be,Google
-# > YouTube
-USER-AGENT,com.google.ios.youtube*,Google
-USER-AGENT,YouTube*,Google
-DOMAIN-SUFFIX,googlevideo.com,Google
-DOMAIN-SUFFIX,youtube.com,Google
-DOMAIN,youtubei.googleapis.com,Google
 # > IP
 IP-CIDR,35.190.247.0/24,Google
 IP-CIDR,64.233.160.0/19,Google
