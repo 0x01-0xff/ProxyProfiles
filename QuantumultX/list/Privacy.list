@@ -42,13 +42,6 @@ DOMAIN,tracklog.58.com,Privacy
 # > Baidu
 DOMAIN,hm.baidu.com,Privacy
 DOMAIN,hmma.baidu.com,Privacy
-# > ByteDance
-DOMAIN,log.byteoversea.com,Privacy
-DOMAIN,log.tiktokv.com,Privacy
-DOMAIN,log-hl-ipv6.snssdk.com,Privacy
-DOMAIN,log-lq.snssdk.com,Privacy
-DOMAIN,log-va.tiktokv.com,Privacy
-DOMAIN,xlog.snssdk.com,Privacy
 # > Google
 DOMAIN-SUFFIX,googletagmanager.com,Privacy
 DOMAIN-SUFFIX,google-analytics.com,Privacy
@@ -58,8 +51,4 @@ DOMAIN-SUFFIX,tracking.miui.com,Privacy
 DOMAIN,data.mistat.xiaomi.com,Privacy
 DOMAIN,tracking.intl.miui.com,Privacy
 # > Tencent
-DOMAIN-SUFFIX,trace.qq.com,Privacy
-DOMAIN,btrace.qq.com,Privacy
-DOMAIN,btrace.video.qq.com,Privacy
-DOMAIN,mtrace.qq.com,Privacy
 DOMAIN,safebrowsing.urlsec.qq.com,Privacy

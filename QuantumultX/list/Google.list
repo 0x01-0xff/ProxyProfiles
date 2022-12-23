@@ -11,6 +11,12 @@ DOMAIN-SUFFIX,ytimg.com,Google
 DOMAIN-KEYWORD,google,Google
 DOMAIN-KEYWORD,.blogspot.,Google
 # > Google
+DOMAIN-KEYWORD,pa.google,Google
+DOMAIN,lens.l.google.com,Google
+DOMAIN-SUFFIX,docs.google.com,Google
+DOMAIN-SUFFIX,drive.google.com,Google
+DOMAIN-SUFFIX,googledrive.com,Google
+DOMAIN-SUFFIX,googleusercontent.com,Google
 DOMAIN-SUFFIX,abc.xyz,Google
 DOMAIN-SUFFIX,android.com,Google
 DOMAIN-SUFFIX,androidify.com,Google
