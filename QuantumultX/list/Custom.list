@@ -1,4 +1,5 @@
 # 自定义规则
+DOMAIN-SUFFIX,hk01.com,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY
 DOMAIN-SUFFIX,openwrt.org,PROXY
 DOMAIN-SUFFIX,xda-developers.com,PROXY
